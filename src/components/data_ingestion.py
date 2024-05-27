@@ -39,6 +39,6 @@ class DataIngestion:
 
 
 # Testing
-if __name__ == "__main__":
-    obj = DataIngestion()
-    obj.initialte_data_ingestion()
+# if __name__ == "__main__":
+#     obj = DataIngestion()
+#     obj.initialte_data_ingestion()
